@@ -7,33 +7,33 @@ The Pandas Dataframe and Time module (calculating time for analysis) were used t
 
 ### The questions answered through analysis of the data:
 
--Which city to analyse out of three? (Chicago,New York city,Washington)
+-Which city to analzye out of three? (Chicago, New York City, Washington)
 
--Which month to analyse? (January to June, None)
+-Which month to analyze? (January through June, None)
 
--Which day of week to be analysed? (Monday to Sunday, None)
+-Which day of week to be analysed? (Monday through Sunday, None)
 
 #### Statistics displayed:
 
--The most pouplar month
+-The most common month
 
--The most popular day of week
+-The most common day of week
 
--The most popular start hour
+-The most common start hour
 
--The most popular Start and End Station.
+-The most common Start and End Station.
 
--The most frequent Start to End Station combination.
+-The most common Start to End Station combination.
 
 -The total travel time and average travel time
 
 -The counts of user types and gender.
 
--The earliest, most recent and most common birth year.
+-The earliest, most recent, and most common birth year.
 
--The first five individual trip data, if needed and more data if required.
+-The first five individual rows of data, if needed and more data if required.
 
 
-#### I completed this project with the knowledge I gained from python classes of Udacity, from stackoverflow site and Python Documentation
+#### I completed this project with the knowledge from Udacity classes, from Stackoverflow site, and with assistance from Udacity chatGPT.
  
 
